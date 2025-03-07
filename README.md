@@ -44,7 +44,7 @@ I do not like green eggs and ham.
 I do not like them, Sam-I-am.
 ```
 
-```python
+```
 i appears 22 times
 like appears 17 times
 not appears 13 times
